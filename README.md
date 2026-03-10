@@ -14,8 +14,6 @@
 [![Built with uv](https://img.shields.io/badge/built%20with-uv-DE5FE9?style=flat-square&logo=astral)](https://docs.astral.sh/uv/)
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Manim CE](https://img.shields.io/badge/Manim-Community%20Edition-00b4d8?style=flat-square)](https://www.manim.community/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](./CONTRIBUTING.md)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](./LICENSE)
 
 *Stop wasting 5 hours on a broken setup. This guide exists so you don't have to.*
 
