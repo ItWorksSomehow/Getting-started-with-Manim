@@ -37,7 +37,7 @@
 
 > **Start here. Always.**
 
-The official documentation is the single most up-to-date and accurate source for installation. Everything in this repo is *supplementary* the official guide is the source of truth.
+The official documentation is the single most up-to-date and accurate source for installation. Everything in this repo is *supplementary* - the official guide is the source of truth.
 
 🔗 **[Manim Installation with `uv` → Official Guide](https://docs.manim.community/en/stable/installation.html)**
 
